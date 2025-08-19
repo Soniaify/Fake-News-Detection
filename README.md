@@ -55,5 +55,3 @@ Open your browser and go to:
 ## Author
 Developed by Sonia.
 Feel free to fork, improve, and contribute!
-Developed by [Your Name].
-Feel free to fork, improve, and contribute! 🚀
