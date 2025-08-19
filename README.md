@@ -37,7 +37,7 @@ This is a **Flask web application** that predicts whether a piece of news is **R
 ## How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/fake-news-detection.git
+   git clone https://github.com/Soniaify/fake-news-detection.git
    cd fake-news-detection
 Install dependencies:
   - pip install flask scikit-learn joblib numpy
